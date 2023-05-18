@@ -1,0 +1,17 @@
+Inheritance protected mode
+Writing passenger details in file from object itself or individual writing
+
+
+
+
+update
+delete
+
+
+
+priting bill from file
+
+
+bike ko unique id dine ani tei anusar search garne ra file ma add garne
+
+bill ma naya added bike haru ko invoice print garne
